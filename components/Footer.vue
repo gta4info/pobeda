@@ -150,7 +150,7 @@ export default {
   }
 
   &__link {
-    color: #fff;
+    color: #fff !important;
     font-family: 'Proxima Nova Bl', sans-serif;
 
     &:not(:last-child) {
@@ -193,7 +193,7 @@ export default {
       padding: 10px 15px;
       background: #304095 !important;
       text-transform: none;
-      color: #ffffff;
+      color: #ffffff !important;
       height: 40px !important;
     }
   }

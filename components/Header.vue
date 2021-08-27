@@ -301,7 +301,7 @@ export default {
         padding: 10px 15px;
         text-transform: none;
         margin-left: 20px;
-        color: #fff;
+        color: #fff !important;
         height: 40px !important;
 
         @media(max-width: 768px) {

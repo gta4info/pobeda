@@ -73,13 +73,13 @@
     <section>
       <div class="title">Мы работаем со следующими организациями</div>
       <div class="workWith">
-        <div class="workWith__item" style="background-image: url('/work1.jpg');">
+        <div class="workWith__item" style="background-image: url('/pobeda/work1.jpg');">
           <div class="workWith__item-content">
             <div class="workWith__item-title">Волонтеры Домодедово</div>
             <v-btn to="/" depressed class="workWith__item-btn">Подробнее</v-btn>
           </div>
         </div>
-        <div class="workWith__item" style="background-image: url('/work2.jpg');">
+        <div class="workWith__item" style="background-image: url('/pobeda/work2.jpg');">
           <div class="workWith__item-content">
             <div class="workWith__item-title">Молодежные организации</div>
             <v-btn to="/" depressed class="workWith__item-btn">Подробнее</v-btn>
@@ -257,127 +257,127 @@ export default {
     newsSlider: [
       {
         badge: 'Новости',
-        img: 'http://localhost:3000/newsSlider.jpg',
+        img: '/pobeda/newsSlider.jpg',
         link: '/',
         title: 'Вы крутые! Сыграли в «FIFA20»'
       },
       {
         badge: 'Новости',
-        img: 'http://localhost:3000/newsSlider.jpg',
+        img: '/pobeda/newsSlider.jpg',
         link: '/',
         title: 'Вы крутые! Сыграли в «FIFA20»'
       },
       {
         badge: 'Новости',
-        img: 'http://localhost:3000/newsSlider.jpg',
+        img: '/pobeda/newsSlider.jpg',
         link: '/',
         title: 'Вы крутые! Сыграли в «FIFA20»'
       },
       {
         badge: 'Новости',
-        img: 'http://localhost:3000/newsSlider.jpg',
+        img: '/pobeda/newsSlider.jpg',
         link: '/',
         title: 'Вы крутые! Сыграли в «FIFA20»'
       }
     ],
     branches: [
       {
-        img: 'http://localhost:3000/branch1.png',
+        img: '/pobeda/branch1.png',
         link: '/',
         title: 'Филиал "Молодежный центр технического творчества "Интеграл"'
       },
       {
-        img: 'http://localhost:3000/branch2.png',
+        img: '/pobeda/branch2.png',
         link: '/',
         title: 'Центр военно-патриотического воспитания'
       },
       {
-        img: 'http://localhost:3000/branch3.png',
+        img: '/pobeda/branch3.png',
         link: '/',
         title: 'Филиал "Молодежное пространство "4К"'
       },
       {
-        img: 'http://localhost:3000/branch1.png',
+        img: '/pobeda/branch1.png',
         link: '/',
         title: 'Филиал "Молодежный центр технического творчества "Интеграл"'
       },
       {
-        img: 'http://localhost:3000/branch2.png',
+        img: '/pobeda/branch2.png',
         link: '/',
         title: 'Центр военно-патриотического воспитания'
       },
       {
-        img: 'http://localhost:3000/branch3.png',
+        img: '/pobeda/branch3.png',
         link: '/',
         title: 'Филиал "Молодежное пространство "4К"'
       },
       {
-        img: 'http://localhost:3000/branch1.png',
+        img: '/pobeda/branch1.png',
         link: '/',
         title: 'Филиал "Молодежный центр технического творчества "Интеграл"'
       },
       {
-        img: 'http://localhost:3000/branch2.png',
+        img: '/pobeda/branch2.png',
         link: '/',
         title: 'Центр военно-патриотического воспитания'
       },
       {
-        img: 'http://localhost:3000/branch3.png',
+        img: '/pobeda/branch3.png',
         link: '/',
         title: 'Филиал "Молодежное пространство "4К"'
       },
     ],
     events: [
       {
-        img: 'http://localhost:3000/event1.jpg',
+        img: '/pobeda/event1.jpg',
         link: '/',
         title: 'Ринг-рок',
         date: '2021-08-20 00:00:00'
       },
       {
-        img: 'http://localhost:3000/event2.jpg',
+        img: '/pobeda/event2.jpg',
         link: '/',
         title: 'ЖивуСпортом',
         date: '2021-08-21 00:00:00'
       },
       {
-        img: 'http://localhost:3000/event3.jpg',
+        img: '/pobeda/event3.jpg',
         link: '/',
         title: 'Свеча памяти',
         date: '2021-08-21 00:00:00'
       },
       {
-        img: 'http://localhost:3000/event1.jpg',
+        img: '/pobeda/event1.jpg',
         link: '/',
         title: 'Ринг-рок',
         date: '2021-08-20 00:00:00'
       },
       {
-        img: 'http://localhost:3000/event2.jpg',
+        img: '/pobeda/event2.jpg',
         link: '/',
         title: 'ЖивуСпортом',
         date: '2021-08-21 00:00:00'
       },
       {
-        img: 'http://localhost:3000/event3.jpg',
+        img: '/pobeda/event3.jpg',
         link: '/',
         title: 'Свеча памяти',
         date: '2021-08-21 00:00:00'
       },
       {
-        img: 'http://localhost:3000/event1.jpg',
+        img: '/pobeda/event1.jpg',
         link: '/',
         title: 'Ринг-рок',
         date: '2021-08-20 00:00:00'
       },
       {
-        img: 'http://localhost:3000/event2.jpg',
+        img: '/pobeda/event2.jpg',
         link: '/',
         title: 'ЖивуСпортом',
         date: '2021-08-21 00:00:00'
       },
       {
-        img: 'http://localhost:3000/event3.jpg',
+        img: '/pobeda/event3.jpg',
         link: '/',
         title: 'Свеча памяти',
         date: '2021-08-21 00:00:00'
@@ -385,21 +385,21 @@ export default {
     ],
     news: [
       {
-        img: 'http://localhost:3000/news1.jpg',
+        img: '/pobeda/news1.jpg',
         link: '/',
         title: 'День донора',
         date: '2021-08-21 00:00:00',
         text: 'Сегодня в Молодежном центре «Победа» состоялся «День донора».Мероприятие уже превратилось в хорошую традицию, единственная задача которой — помощь.Спасибо всем, кто принял участие в этом важном событии, вы — настоящие герои!'
       },
       {
-        img: 'http://localhost:3000/news2.jpg',
+        img: '/pobeda/news2.jpg',
         link: '/',
         title: 'День донора',
         date: '2021-08-21 00:00:00',
         text: 'Нам очень повезло. У нас есть друзья - ВЫ!  Верные, честные, любимые!...'
       },
       {
-        img: 'http://localhost:3000/news2.jpg',
+        img: '/pobeda/news2.jpg',
         link: '/',
         title: 'Музыкальная точка',
         date: '2021-08-21 00:00:00',
@@ -408,7 +408,7 @@ export default {
     ],
     classes: [
       {
-        img: 'http://localhost:3000/classes1.jpg',
+        img: '/pobeda/classes1.jpg',
         title: 'Хореография',
         items: [
           {
@@ -422,7 +422,7 @@ export default {
         ]
       },
       {
-        img: 'http://localhost:3000/classes2.jpg',
+        img: '/pobeda/classes2.jpg',
         title: 'Ударные инструменты',
         items: [
           {
@@ -432,7 +432,7 @@ export default {
         ]
       },
       {
-        img: 'http://localhost:3000/classes3.jpg',
+        img: '/pobeda/classes3.jpg',
         title: 'Вокал',
         items: [
           {
@@ -442,7 +442,7 @@ export default {
         ]
       },
       {
-        img: 'http://localhost:3000/classes4.jpg',
+        img: '/pobeda/classes4.jpg',
         title: 'Мастерская',
         items: [
           {
@@ -452,7 +452,7 @@ export default {
         ]
       },
       {
-        img: 'http://localhost:3000/classes4.jpg',
+        img: '/pobeda/classes4.jpg',
         title: 'Клуб молодых родителей',
         items: [
           {
@@ -640,7 +640,7 @@ export default {
         &-btn {
           background: rgba(48, 64, 149, 0.8) !important;
           border-radius: 8px;
-          color: #ffffff;
+          color: #ffffff !important;
           height: 40px !important;
           padding: 10px 32px !important;
           text-transform: none;
@@ -685,7 +685,7 @@ export default {
   .cooperation {
     display: flex;
     justify-content: space-between;
-    background-image: url('/cooperation-bg.jpg');
+    background-image: url('/pobeda/cooperation-bg.jpg');
     background-size: cover;
     background-position: center bottom;
     height: 463px;
@@ -696,7 +696,7 @@ export default {
       flex-direction: column-reverse;
       align-items: center;
       height: auto;
-      background-image: url('/cooperation-bg-mobile.jpg');
+      background-image: url('/pobeda/cooperation-bg-mobile.jpg');
       padding: 24px 20px;
     }
 
